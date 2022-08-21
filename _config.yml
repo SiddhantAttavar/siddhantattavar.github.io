@@ -3,13 +3,10 @@ email: siddhantattavar12@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  SiddhantAttavar
-
-# Build settings
-remote_theme: github.com/sujaykundu777/devlopr-jekyll
 
 # Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jemoji
   - jekyll-seo-tag
@@ -18,6 +15,8 @@ plugins:
   - jekyll-gist
   - jekyll-admin
 
+# Build settings
+remote_theme: github.com/sujaykundu777/devlopr-jekyll
 
 # Jekyll Admin Config
 jekyll_admin:
