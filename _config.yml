@@ -6,85 +6,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  SiddhantAttavar
 
 # Build settings
-remote_theme: github.com/sujaykundu777/devlopr-jekyll
+# remote_theme: minima
+theme: minima
 
 # Plugins
 # plugins:
   # - plugin
 
-# Jekyll Admin Config
-jekyll_admin:
-  # hidden_links:
-  #   - posts
-  #   - pages
-  #   - staticfiles
-  #   - datafiles
-  #   - configuration
-  # homepage: "posts"
-
 # for atom feed
 author:
   name: Siddhant Attavar
   email: siddhantattavar12@gmail.com
-
-# Navigation
-urls:
-  - text: Home
-    url: /
-  - text: About
-    url: /about
-  - text: Blog
-    url: /blog
-  - text: Contact
-    url: /contact
-
-# Author details
-# author_logo: profile.png
-author: John Doe
-author_bio: I am a high school student at NPS Indiranagar. My main interests are competitive programming, machine learning, linguistics, and computational neuroscience.
-author_email: "siddhantattavar12@gmail.com"
-author_location: India
-typewrite-text: Hello, I'm Siddhant Attavar
-# hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
-
-# Education
-author_education_details:
-  - college_logo: npsinr.png
-    college_name: NPS
-    college_url: https://npsinr.com
-    college_degree: High School
-    description: High School Diploma
-    visibility: true
-
-# Projects
-author_project_details:
-  - project_thumbnail: smart.png
-    project_title: SMART, Stroke Monitoring and Rehabilitation using Technology
-    # project_description: A Platform built for Gamers and Game Devs
-    project_url: https://github.com/SiddhantAttavar/SMART
-    visibility: true
-  - project_thumbnail: smart.png
-    project_title: DriveSafe
-    # project_description: A Platform built for Gamers and Game Devs
-    project_url: https://github.com/SiddhantAttavar/DriveSafe
-    visibility: true
-
-
-# social links
-github_username:  SiddhantAttavar
-linkedin_username: siddhantattavar
-
-# releases - widget can be (sidebar, modal or embed)
-olvy_organization: devlopr
-olvy_widget_type: sidebar
-
-# syntax highlighter
-markdown: kramdown
-highlighter: rouge
-permalink: pretty
-
-# Choose what to show ( can be true or false)
-show_author_work_experiences: true
-show_author_education_details: true
-show_author_project_details: true
 
