@@ -26,7 +26,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  SiddhantAttavar
 
 # Build settings
-remote_theme: sharadcodes/jekyll-theme-serial-programmer
+remote_theme: github.com/sujaykundu777/devlopr-jekyll
+
+# Plugins
 plugins:
   - jekyll-feed
   - jemoji
@@ -38,19 +40,6 @@ plugins:
 author:
   name: Siddhant Attavar
   email: siddhantattavar12@gmail.com
-
-collections_dir: ""
-collections:
-  posts:
-    output: true
-
-defaults:
-  - scope:
-      path: "_posts"
-    values:
-      layout: "post"
-      permalink: /posts/:title/
-exclude: ["sitemap.xml", "feed.xml", "LICENSE"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
