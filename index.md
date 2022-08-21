@@ -1,6 +1,3 @@
 ---
-title: Blog
-layout: blog
+layout: home
 ---
-
-test
