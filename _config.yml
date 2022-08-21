@@ -50,7 +50,7 @@ defaults:
     values:
       layout: "post"
       permalink: /posts/:title/
-exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
+exclude: ["sitemap.xml", "feed.xml", "LICENSE"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
