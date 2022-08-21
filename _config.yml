@@ -9,15 +9,8 @@ github_username:  SiddhantAttavar
 remote_theme: github.com/sujaykundu777/devlopr-jekyll
 
 # Plugins
-plugins:
-  - jekyll-feed
-  - jemoji
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-gist
-  - jekyll-admin
-
+# plugins:
+  # - plugin
 
 # Jekyll Admin Config
 jekyll_admin:
@@ -27,7 +20,7 @@ jekyll_admin:
   #   - staticfiles
   #   - datafiles
   #   - configuration
-  homepage: "posts"
+  # homepage: "posts"
 
 # for atom feed
 author:
