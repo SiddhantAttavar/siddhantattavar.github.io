@@ -29,6 +29,28 @@ github_username:  SiddhantAttavar
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# for atom feed
+author:
+  name: Sharad Raj Singh Maurya
+  email: dev_sharad@outlook.com
+
+collections_dir: all_collections
+collections:
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      permalink: /posts/:title/
+exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
