@@ -66,7 +66,7 @@ author_education_details:
 # Projects
 author_project_details:
   - project_thumbnail: smart.png
-    project_title: SMART: Stroke Monitoring and Rehabilitation using Technology
+    project_title: SMART, Stroke Monitoring and Rehabilitation using Technology
     # project_description: A Platform built for Gamers and Game Devs
     project_url: https://github.com/SiddhantAttavar/SMART
     visibility: true
