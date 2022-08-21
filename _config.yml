@@ -39,7 +39,7 @@ author:
   name: Sharad Raj Singh Maurya
   email: dev_sharad@outlook.com
 
-collections_dir: all_collections
+collections_dir: ""
 collections:
   posts:
     output: true
