@@ -6,8 +6,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  SiddhantAttavar
 
 # Build settings
-# remote_theme: minima
-theme: minima
+remote_theme: sharadcodes/jekyll-theme-serial-programmer
+# theme: minima
 
 # Plugins
 # plugins:

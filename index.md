@@ -1,4 +1,4 @@
 ---
-title: Home
-layout: home
+title: Siddhant Attavar
+layout: blog
 ---
