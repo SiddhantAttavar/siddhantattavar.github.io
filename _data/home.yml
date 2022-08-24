@@ -7,15 +7,15 @@ navbar_entries:
 
 project_entries:
   - title: Competitive Programming
-    url: false
+    url: competitive-programming
     desc: ACs, WAs and everything in between
 
   - title: Linguistics Olympiad
-    url: false
+    url: linguistics-olympiad
     desc: No one can resist a good old language puzzle
 
   - title: Research and Development
-    url: false
+    url: research-and-development
     desc: Using technology to solve the world's issues
 
 old_project_entries:
