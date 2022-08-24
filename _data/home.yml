@@ -8,15 +8,15 @@ navbar_entries:
 project_entries:
   - title: Competitive Programming
     url: false
-    desc: 
+    desc: ACs, WAs and everything in between
 
-  - title: Linguistics
+  - title: Linguistics Olympiad
     url: false
-    desc: 
+    desc: No one can resist a good old language puzzle
 
   - title: Research and Development
     url: false
-    desc: 
+    desc: Using technology to solve the world's issues
 
 old_project_entries:
   - title: SimAID
@@ -30,10 +30,6 @@ old_project_entries:
   - title: DriveSafe
     url: https://github.com/SiddhantAttavar/DriveSafe
     desc: A smartphone app to monitor reckless driving behaviors
-
-  - title: Mini Projects
-    url: https://github.com/SiddhantAttavar/Mini-Projects
-    desc: A collection of various smaller projects developed in my free time
 
 footer_entries:
   - title: github
