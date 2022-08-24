@@ -6,31 +6,17 @@ navbar_entries:
     url: blog
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: SimAID
+    url: https://njspopjbwljexuwd.anvil.app/MZZ4EVCYXSTIDTGCDBR4E5DI
+    desc: https://github.com/SiddhantAttavar/SimAID/
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: SMART
+    url: https://github.com/SiddhantAttavar/SMART/
+    desc: Stroke Monitoring And Rehabilitation using Technology - A solution that aims to tackle the issues of expensive and inaccessible stroke care services in India
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: DriveSafe
+    url: https://github.com/SiddhantAttavar/DriveSafe
+    desc: A smartphone app to monitor reckless driving behaviors
 
 old_project_entries:
   - title: Soopr
