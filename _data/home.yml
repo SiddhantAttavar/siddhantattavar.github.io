@@ -6,9 +6,22 @@ navbar_entries:
     url: blog
 
 project_entries:
+  - title: Competitive Programming
+    url: false
+    desc: 
+
+  - title: Linguistics
+    url: false
+    desc: 
+
+  - title: Research and Development
+    url: false
+    desc: 
+
+old_project_entries:
   - title: SimAID
     url: https://njspopjbwljexuwd.anvil.app/MZZ4EVCYXSTIDTGCDBR4E5DI
-    desc: https://github.com/SiddhantAttavar/SimAID/
+    desc: A web app which allows local policy makers to run simulations of numerous epidemics and find out the best intervention strategies to use
 
   - title: SMART
     url: https://github.com/SiddhantAttavar/SMART/
@@ -18,23 +31,9 @@ project_entries:
     url: https://github.com/SiddhantAttavar/DriveSafe
     desc: A smartphone app to monitor reckless driving behaviors
 
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
-
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: Mini Projects
+    url: https://github.com/SiddhantAttavar/Mini-Projects
+    desc: A collection of various smaller projects developed in my free time
 
 footer_entries:
   - title: github
@@ -42,6 +41,15 @@ footer_entries:
 
   - title: linkedin
     url: https://linkedin.com/in/siddhantattavar
+
+  - title: email
+    url: mailto:siddhantattavar12@gmail.com
+
+  - title: stopstalk
+    url: https://www.stopstalk.com/user/profile/siddhantattavar
+
+  - title: youtube
+    url: https://youtube.com/channel/UCGTLB_auqT8asc7kd7qiueg
 
   - title: feed
     url: feed.xml
