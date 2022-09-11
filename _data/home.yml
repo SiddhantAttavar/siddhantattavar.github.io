@@ -32,6 +32,9 @@ old_project_entries:
     desc: A smartphone app to monitor reckless driving behaviors
 
 footer_entries:
+  - title: cv
+    url: http://registry.jsonresume.org/siddhantattavar
+
   - title: github
     url: https://github.com/siddhantattavar
 
