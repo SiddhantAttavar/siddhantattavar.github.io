@@ -20,15 +20,15 @@ project_entries:
 
 old_project_entries:
   - title: SimAID
-    url: https://njspopjbwljexuwd.anvil.app/MZZ4EVCYXSTIDTGCDBR4E5DI
+    url: SimAID
     desc: A web app which allows local policy makers to run simulations of numerous epidemics and find out the best intervention strategies to use
 
   - title: SMART
-    url: https://github.com/SiddhantAttavar/SMART/
+    url: SMART
     desc: Stroke Monitoring And Rehabilitation using Technology - A solution that aims to tackle the issues of expensive and inaccessible stroke care services in India
 
   - title: DriveSafe
-    url: https://github.com/SiddhantAttavar/DriveSafe
+    url: DriveSafe
     desc: A smartphone app to monitor reckless driving behaviors
 
 footer_entries:
