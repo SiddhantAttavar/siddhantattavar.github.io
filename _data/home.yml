@@ -7,28 +7,28 @@ navbar_entries:
 
 project_entries:
   - title: Competitive Programming
-    url: competitive-programming
+    url: areas-of-interest/competitive-programming
     desc: ACs, WAs and everything in between
 
   - title: Linguistics Olympiad
-    url: linguistics-olympiad
+    url: areas-of-interest/linguistics-olympiad
     desc: No one can resist a good old language puzzle
 
   - title: Research and Development
-    url: research-and-development
+    url: areas-of-interest/research-and-development
     desc: Using technology to solve the world's issues
 
 old_project_entries:
   - title: SimAID
-    url: SimAID
+    url: projects/simaid
     desc: A web app which allows local policy makers to run simulations of numerous epidemics and find out the best intervention strategies to use
 
   - title: SMART
-    url: SMART
+    url: projects/smart
     desc: Stroke Monitoring And Rehabilitation using Technology - A solution that aims to tackle the issues of expensive and inaccessible stroke care services in India
 
   - title: DriveSafe
-    url: DriveSafe
+    url: projects/drivesafe
     desc: A smartphone app to monitor reckless driving behaviors
 
 footer_entries:
