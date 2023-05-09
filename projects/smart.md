@@ -6,6 +6,10 @@ permalink: /projects/smart/
 
 Stroke Monitoring And Rehabilitation using Technology — A solution that aims to tackle the issues of expensive and inaccessible stroke care services in India
 
+[Check out the GitHub repo](https://github.com/SiddhantAttavar/SMART)
+[Check out the project report](https://drive.google.com/file/d/1z0wQdutL87Xy6aGSsSyQcRXPCeIG3tEc/view?usp=sharing)
+
+## About SMART: <a name = "about-smart"></a>
 Stroke experts say it is crucial to develop innovative, technology-driven strategies to meet the growing needs of stroke survivors in India. SMART is a comprehensive solution for stroke care comprising: 
  - SMART EEG headset
  - SMART app having diagnostic and rehabilitation tools.
@@ -37,3 +41,4 @@ I believe SMART could radically improve the delivery of medical care to stroke p
 </p>
 
 [Check out the GitHub repo](https://github.com/SiddhantAttavar/SMART)
+[Check out the project report](https://drive.google.com/file/d/1z0wQdutL87Xy6aGSsSyQcRXPCeIG3tEc/view?usp=sharing)

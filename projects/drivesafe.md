@@ -6,6 +6,9 @@ permalink: /projects/drivesafe/
 
 DriveSafe: A smartphone app to monitor reckless driving behaviours
 
+[Check out the GitHub repo](https://github.com/SiddhantAttavar/DriveSafe)
+[Check out the project report](https://drive.google.com/file/d/1R_y5dDQz2MwHkA2Dt6r5Glj3wOAq20FS/view?usp=sharing)
+
 ## What is the problem?: <a name = "problem"></a>
 Road accidents killed 13.5 lakh people globally in 2018. They are the single largest cause of death for those in age group of 15-45. Reckless driving is responsible for 90% of road deaths.
 
@@ -42,3 +45,4 @@ DriveSafe can be used to monitor reckless driving behaviours with a high accurac
 </p>
 
 [Check out the GitHub repo](https://github.com/SiddhantAttavar/DriveSafe)
+[Check out the project report](https://drive.google.com/file/d/1R_y5dDQz2MwHkA2Dt6r5Glj3wOAq20FS/view?usp=sharing)

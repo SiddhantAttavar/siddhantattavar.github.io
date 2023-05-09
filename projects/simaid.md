@@ -7,6 +7,8 @@ permalink: /projects/simaid/
 A web app, which allows local policymakers to run simulations of numerous epidemics and find out the best intervention strategies to use.
 
 [Live Demo](https://simaid.anvil.app/)
+[Check out the GitHub repo](https://github.com/SiddhantAttavar/SimAID)
+[Check out the project report](https://drive.google.com/file/d/1DBn9F0UZLKpxfyLS4mIhShBJoQjaCZC3/view?usp=sharing)
 
 ## Dependencies: <a name = "dependencies"></a>
  - [Python 3.x](https://www.python.org/downloads/)
@@ -27,4 +29,6 @@ A web app, which allows local policymakers to run simulations of numerous epidem
   </a>
 </p>
 
+[Live Demo](https://simaid.anvil.app/)
 [Check out the GitHub repo](https://github.com/SiddhantAttavar/SimAID)
+[Check out the project report](https://drive.google.com/file/d/1DBn9F0UZLKpxfyLS4mIhShBJoQjaCZC3/view?usp=sharing)
