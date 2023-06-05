@@ -50,7 +50,7 @@ footer_entries:
   - title: mastodon
     url: https://mastodon.social/@SiddhantAttavar
 
-  - title: feed
+  - title: rss
     url: feed.xml
 
 misc_entries:
