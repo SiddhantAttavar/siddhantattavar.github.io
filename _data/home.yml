@@ -47,6 +47,9 @@ footer_entries:
   - title: youtube
     url: https://youtube.com/@SiddhantAttavar
 
+  - title: mastodon
+    url: https://mastodon.social/@SiddhantAttavar
+
   - title: feed
     url: feed.xml
 
