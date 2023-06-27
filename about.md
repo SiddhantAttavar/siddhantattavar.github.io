@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Coming soon
+👋 Hi there!
+
+I'm Siddhant Attavar, a high school student studying in National Public School, Indiranagar who loves 
